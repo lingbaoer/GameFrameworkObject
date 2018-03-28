@@ -13,6 +13,6 @@ Unity框架内容学习
 
 5、本地化处理的学习；
 
-6、有限状态机的学习；
+6、有限状态机（FSM）的学习；
 
-7、Protocol Buffers的学习；
+7、Protocol Buffers/Protobuf-net的学习；
