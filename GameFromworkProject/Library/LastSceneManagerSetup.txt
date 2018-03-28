@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/Demo1/Scenes/Demo1Main.unity
+- path: Assets/Demo2 protobufnet/protobuf-net.unity
   isLoaded: 1
   isActive: 1

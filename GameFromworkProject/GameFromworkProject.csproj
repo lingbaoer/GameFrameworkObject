@@ -259,6 +259,9 @@
     <Reference Include="SyntaxTree.VisualStudio.Unity.Bridge">
       <HintPath>C:/Program Files (x86)/Microsoft Visual Studio Tools for Unity/2015/Editor/SyntaxTree.VisualStudio.Unity.Bridge.dll</HintPath>
     </Reference>
+    <Reference Include="protobuf-net">
+      <HintPath>Assets/FrameWork/Plugins/protobuf-net.dll</HintPath>
+    </Reference>
     <Reference Include="UnityEngine.Advertisements">
       <HintPath>C:/Users/Administrator/AppData/LocalLow/Unity/cache/packages/packages.unity.com/com.unity.ads@2.0.3/UnityEngine.Advertisements.dll</HintPath>
     </Reference>
@@ -289,6 +292,9 @@
     <Compile Include="Assets\Demo1\Scripts\Demo1Context.cs" />
     <Compile Include="Assets\Demo1\Scripts\Demo1ContextView.cs" />
     <Compile Include="Assets\Demo1\Scripts\Model\ScoreModel.cs" />
+    <Compile Include="Assets\Demo1\Scripts\NPCAI\ChaseState.cs" />
+    <Compile Include="Assets\Demo1\Scripts\NPCAI\NPCControl.cs" />
+    <Compile Include="Assets\Demo1\Scripts\NPCAI\PatrolState.cs" />
     <Compile Include="Assets\Demo1\Scripts\Service\Demo1ServiceEvent.cs" />
     <Compile Include="Assets\Demo1\Scripts\Service\IScoreService.cs" />
     <Compile Include="Assets\Demo1\Scripts\Service\ScoreService.cs" />
@@ -296,6 +302,10 @@
     <Compile Include="Assets\Demo1\Scripts\View\CubeView.cs" />
     <Compile Include="Assets\Demo1\Scripts\View\DeactiveForTime.cs" />
     <Compile Include="Assets\Demo1\Scripts\View\Demo1MediatroEvent.cs" />
+    <Compile Include="Assets\Demo2 protobufnet\TestProtobuf.cs" />
+    <Compile Include="Assets\Demo2 protobufnet\User.cs" />
+    <Compile Include="Assets\FrameWork\Scripts\FSM\FSMState.cs" />
+    <Compile Include="Assets\FrameWork\Scripts\FSM\FSMSystem.cs" />
     <Compile Include="Assets\FrameWork\Scripts\Manager\AudioManager.cs" />
     <Compile Include="Assets\FrameWork\Scripts\Manager\LocalizationManager.cs" />
     <Compile Include="Assets\FrameWork\Scripts\Manager\LocalizationText.cs" />
@@ -416,6 +426,7 @@
     <Compile Include="Assets\StrangeIoC\scripts\strange\ReadMe.cs" />
   </ItemGroup>
   <ItemGroup>
+    <None Include="Assets\FrameWork\Plugins\protobuf-net.xml" />
     <None Include="Assets\FrameWork\Resources\AudioList.txt" />
     <None Include="Assets\FrameWork\Resources\Localization\Chinese.txt" />
     <None Include="Assets\FrameWork\Resources\Localization\English.txt" />

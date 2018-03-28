@@ -59,9 +59,9 @@ MonoBehaviour:
   m_Position:
     serializedVersion: 2
     x: 0
-    y: 530
+    y: 610
     width: 1015
-    height: 448
+    height: 368
   m_MinSize: {x: 100, y: 100}
   m_MaxSize: {x: 4000, y: 4000}
   m_ActualView: {fileID: 15}
@@ -92,7 +92,7 @@ MonoBehaviour:
   m_MinSize: {x: 202, y: 321}
   m_MaxSize: {x: 4002, y: 8021}
   vertical: 1
-  controlID: 55
+  controlID: 118
 --- !u!114 &5
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -112,8 +112,8 @@ MonoBehaviour:
     y: 30
     width: 1920
     height: 978
-  m_MinSize: {x: 713, y: 471}
-  m_MaxSize: {x: 18008, y: 14021}
+  m_MinSize: {x: 711, y: 471}
+  m_MaxSize: {x: 18006, y: 14021}
   vertical: 1
   controlID: 141
 --- !u!114 &6
@@ -164,7 +164,7 @@ MonoBehaviour:
   m_MinSize: {x: 234, y: 471}
   m_MaxSize: {x: 10004, y: 14021}
   vertical: 1
-  controlID: 90
+  controlID: 30
 --- !u!114 &8
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -250,8 +250,8 @@ MonoBehaviour:
     y: 0
     width: 1920
     height: 978
-  m_MinSize: {x: 713, y: 471}
-  m_MaxSize: {x: 18008, y: 14021}
+  m_MinSize: {x: 711, y: 471}
+  m_MaxSize: {x: 18006, y: 14021}
   vertical: 0
   controlID: 142
 --- !u!114 &12
@@ -271,9 +271,9 @@ MonoBehaviour:
     x: 0
     y: 0
     width: 1015
-    height: 530
-  m_MinSize: {x: 202, y: 221}
-  m_MaxSize: {x: 4002, y: 4021}
+    height: 610
+  m_MinSize: {x: 200, y: 200}
+  m_MaxSize: {x: 4000, y: 4000}
   m_ActualView: {fileID: 19}
   m_Panes:
   - {fileID: 19}
@@ -325,13 +325,12 @@ MonoBehaviour:
     y: 0
     width: 350
     height: 978
-  m_MinSize: {x: 277, y: 71}
-  m_MaxSize: {x: 4002, y: 4021}
+  m_MinSize: {x: 275, y: 50}
+  m_MaxSize: {x: 4000, y: 4000}
   m_ActualView: {fileID: 17}
   m_Panes:
-  - {fileID: 23}
   - {fileID: 17}
-  m_Selected: 1
+  m_Selected: 0
   m_LastSelected: 0
 --- !u!114 &15
 MonoBehaviour:
@@ -356,9 +355,9 @@ MonoBehaviour:
   m_Pos:
     serializedVersion: 2
     x: 1920
-    y: 631
+    y: 711
     width: 1013
-    height: 427
+    height: 347
   m_PersistentViewDataDictionary: {fileID: 0}
 --- !u!114 &16
 MonoBehaviour:
@@ -462,7 +461,7 @@ MonoBehaviour:
     x: 1920
     y: 101
     width: 1013
-    height: 509
+    height: 589
   m_PersistentViewDataDictionary: {fileID: 0}
   m_MaximizeOnPlay: 0
   m_Gizmos: 0
@@ -474,8 +473,8 @@ MonoBehaviour:
     m_VRangeLocked: 0
     m_HBaseRangeMin: -506.5
     m_HBaseRangeMax: 506.5
-    m_VBaseRangeMin: -246
-    m_VBaseRangeMax: 246
+    m_VBaseRangeMin: -286
+    m_VBaseRangeMax: 286
     m_HAllowExceedBaseRangeMin: 1
     m_HAllowExceedBaseRangeMax: 1
     m_VAllowExceedBaseRangeMin: 1
@@ -493,9 +492,9 @@ MonoBehaviour:
       x: 0
       y: 17
       width: 1013
-      height: 492
+      height: 572
     m_Scale: {x: 1, y: 1}
-    m_Translation: {x: 506.5, y: 246}
+    m_Translation: {x: 506.5, y: 286}
     m_MarginLeft: 0
     m_MarginRight: 0
     m_MarginTop: 0
@@ -503,14 +502,14 @@ MonoBehaviour:
     m_LastShownAreaInsideMargins:
       serializedVersion: 2
       x: -506.5
-      y: -246
+      y: -286
       width: 1013
-      height: 492
+      height: 572
     m_MinimalGUI: 1
   m_defaultScale: 1
   m_TargetTexture: {fileID: 0}
   m_CurrentColorSpace: 0
-  m_LastWindowPixelSize: {x: 1013, y: 509}
+  m_LastWindowPixelSize: {x: 1013, y: 589}
   m_ClearInEditMode: 1
   m_NoCameraWarning: 1
   m_LowResolutionForAspectRatios: 01000000000100000100
@@ -539,17 +538,17 @@ MonoBehaviour:
     x: 1920
     y: 101
     width: 1013
-    height: 509
+    height: 589
   m_PersistentViewDataDictionary: {fileID: 0}
   m_SceneLighting: 1
-  lastFramingTime: 196.72949238269877
-  m_2DMode: 1
+  lastFramingTime: 204.72015315977964
+  m_2DMode: 0
   m_isRotationLocked: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: 487.6235, y: 513.9599, z: -4}
+    m_Target: {x: 5.1042595, y: -2.0430412, z: -0.6129408}
     speed: 2
-    m_Value: {x: 487.6235, y: 513.9599, z: -4}
+    m_Value: {x: 5.1042595, y: -2.0430412, z: -0.6129408}
   m_RenderMode: 0
   m_ValidateTrueMetals: 0
   m_SceneViewState:
@@ -565,27 +564,27 @@ MonoBehaviour:
       speed: 2
       m_Value: 0
     yGrid:
-      m_Target: 0
-      speed: 2
-      m_Value: 0
-    zGrid:
       m_Target: 1
       speed: 2
       m_Value: 1
+    zGrid:
+      m_Target: 0
+      speed: 2
+      m_Value: 0
   m_Rotation:
-    m_Target: {x: 0, y: 0, z: 0, w: 1}
+    m_Target: {x: 0.25060293, y: -0.13595717, z: 0.03557071, w: 0.9578364}
     speed: 2
-    m_Value: {x: 0, y: 0, z: 0, w: 1}
+    m_Value: {x: -0.25060293, y: 0.13595717, z: -0.03557071, w: -0.95783633}
   m_Size:
-    m_Target: 668.1388
+    m_Target: 25.382557
     speed: 2
-    m_Value: 668.1388
+    m_Value: 25.382557
   m_Ortho:
-    m_Target: 1
+    m_Target: 0
     speed: 2
-    m_Value: 1
+    m_Value: 0
   m_ShowGlobalGrid: 1
-  m_LastSceneViewRotation: {x: -0.19630711, y: -0.16241513, z: 0.032990508, w: -0.9664362}
+  m_LastSceneViewRotation: {x: 0.08717229, y: -0.89959055, z: 0.21045254, w: 0.3726226}
   m_LastSceneViewOrtho: 0
   m_ReplacementShader: {fileID: 0}
   m_ReplacementString: 
@@ -647,9 +646,9 @@ MonoBehaviour:
   m_PersistentViewDataDictionary: {fileID: 0}
   m_TreeViewState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: 742a0000
+    m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 3aecffff9efbffff00000000a0290000
+    m_ExpandedIDs: 9efbffff00000000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -668,7 +667,7 @@ MonoBehaviour:
       m_ClientGUIView: {fileID: 13}
     m_SearchString: 
   m_ExpandedScenes:
-  - Demo1Main
+  - protobuf-net
   m_CurrenRootInstanceID: 0
   m_Locked: 0
   m_CurrentSortingName: TransformSorting
@@ -711,18 +710,18 @@ MonoBehaviour:
     m_ShowAllHits: 0
     m_SearchArea: 0
     m_Folders:
-    - Assets/FrameWork/Scripts/Manager
+    - Assets/Demo2 protobufnet
   m_ViewMode: 0
   m_StartGridSize: 16
   m_LastFolders: []
   m_LastFoldersGridSize: -1
-  m_LastProjectPath: E:\Unity Learning\StrangeIoC Learning\GameFromworkProject
+  m_LastProjectPath: E:\GitHub Repository\GameFromworkProject
   m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 506}
     m_SelectedIDs: 7c660000
     m_LastClickedID: 26236
-    m_ExpandedIDs: 00000000482800005e280000662800007828000090280000a8280000b4280000bc280000ca280000e0280000e228000040290000
+    m_ExpandedIDs: 000000005e2800006a280000922800009c280000aa280000ca280000fe280000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -750,18 +749,18 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 00000000482800005e280000662800007828000090280000a8280000b4280000bc280000ca280000e2280000e6280000f228000040290000622a0000
+    m_ExpandedIDs: 000000005e2800006a280000922800009c280000aa280000ca280000fe280000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
-      m_Name: LocalizationText
-      m_OriginalName: LocalizationText
+      m_Name: TestProtobuf
+      m_OriginalName: TestProtobuf
       m_EditFieldRect:
         serializedVersion: 2
         x: 0
         y: 0
         width: 0
         height: 0
-      m_UserData: 10882
+      m_UserData: 1974
       m_IsWaitingForDelay: 0
       m_IsRenaming: 0
       m_OriginalEventType: 0
@@ -805,35 +804,3 @@ MonoBehaviour:
     m_ScrollPosition: {x: 0, y: 0}
     m_GridSize: 16
   m_DirectoriesAreaWidth: 168
---- !u!114 &23
-MonoBehaviour:
-  m_ObjectHideFlags: 52
-  m_PrefabParentObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 1
-  m_Script: {fileID: 12157, guid: 0000000000000000e000000000000000, type: 0}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  m_AutoRepaintOnSceneChange: 0
-  m_MinSize: {x: 275, y: 50}
-  m_MaxSize: {x: 4000, y: 4000}
-  m_TitleContent:
-    m_Text: Services
-    m_Image: {fileID: 0}
-    m_Tooltip: 
-  m_DepthBufferBits: 0
-  m_Pos:
-    serializedVersion: 2
-    x: 2624
-    y: 110
-    width: 282
-    height: 927
-  m_PersistentViewDataDictionary: {fileID: 0}
-  m_InitialOpenURL: https://public-cdn.cloud.unity3d.com/editor/production/cloud/hub
-  m_GlobalObjectTypeName: 
-  m_RegisteredViewURLs:
-  - https://public-cdn.cloud.unity3d.com/editor/production/cloud/hub
-  m_RegisteredViewInstances:
-  - {fileID: 0}

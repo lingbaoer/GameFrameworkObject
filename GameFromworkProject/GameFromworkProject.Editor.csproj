@@ -259,6 +259,9 @@
     <Reference Include="SyntaxTree.VisualStudio.Unity.Bridge">
       <HintPath>C:/Program Files (x86)/Microsoft Visual Studio Tools for Unity/2015/Editor/SyntaxTree.VisualStudio.Unity.Bridge.dll</HintPath>
     </Reference>
+    <Reference Include="protobuf-net">
+      <HintPath>Assets/FrameWork/Plugins/protobuf-net.dll</HintPath>
+    </Reference>
     <Reference Include="UnityEngine.Advertisements">
       <HintPath>C:/Users/Administrator/AppData/LocalLow/Unity/cache/packages/packages.unity.com/com.unity.ads@2.0.3/UnityEngine.Advertisements.dll</HintPath>
     </Reference>
@@ -292,6 +295,7 @@
     <Compile Include="Assets\FrameWork\Editor\PoolManagerEditor.cs" />
   </ItemGroup>
   <ItemGroup>
+    <None Include="Assets\FrameWork\Plugins\protobuf-net.xml" />
     <None Include="Assets\FrameWork\Resources\AudioList.txt" />
     <None Include="Assets\FrameWork\Resources\Localization\Chinese.txt" />
     <None Include="Assets\FrameWork\Resources\Localization\English.txt" />
